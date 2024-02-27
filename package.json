@@ -1,0 +1,25 @@
+{
+  "name": "msc-ez-catalog",
+  "version": "1.0.0",
+  "description": "Book reading is a very common UI effect to provide different browsing experience for users. With <msc-ez-catalog />, developers could adopt this feature to web page easier. All developers need to do is just providing series image paths in config and everything will be all set.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meistudioli/msc-ez-catalog.git"
+  },
+  "keywords": [
+    "web",
+    "front-end",
+    "web component",
+    "catalog"
+  ],
+  "author": "Paul Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meistudioli/msc-ez-catalog/issues"
+  },
+  "homepage": "https://github.com/meistudioli/msc-ez-catalog#readme"
+}
